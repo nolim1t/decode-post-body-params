@@ -1,11 +1,15 @@
 {
   "name": "decode-post-body-params",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Decoding post body params",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Barry Teoh <bt@perceptionz.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "GIT",
+    "url": "https://github.com/nolim1t/decode-post-body-params"
+  }
 }
